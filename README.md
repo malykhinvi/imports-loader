@@ -1,3 +1,5 @@
+**Note: Not relevant anymore. Use the latest version of original imports-loader**
+
 # imports loader for webpack
 
 This is the fork of original https://github.com/webpack/imports-loader repository. The only difference is that it fixes https://github.com/webpack/imports-loader/issues/5 issue.
